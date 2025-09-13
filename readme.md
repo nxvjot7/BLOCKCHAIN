@@ -1,1 +1,1 @@
-These are the "BLOCKCHAIN NOTES" repo
+This is the "BLOCKCHAIN" repo

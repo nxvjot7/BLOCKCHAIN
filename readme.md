@@ -87,7 +87,7 @@ $ whoami
 
 This project is open for those who have the will to learn.
 
-**Credits:** Inspiration from the Cyfrin Updraft community and the dark world of Kentaro Miura's *Berserk*.
+**Credits:** Inspiration from the Blockchain community and the dark world of Kentaro Miura's *Berserk*.
 
 <br/>
 
